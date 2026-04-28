@@ -72,7 +72,7 @@ Course: Foundation: Introduction to LangChain - Python
 Certificate ID: eht4iamrjm
 
 Quick Start
-Bashgit clone https://github.com/kabincs9/wedding-planner-agent.git
+Bashgit clone https://github.com/kabincs9/Wedding-Planner-Agent.git
 cd wedding-planner-agent
 
 # Using uv (recommended)
